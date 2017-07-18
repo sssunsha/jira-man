@@ -1,0 +1,10 @@
+$man_min_width: 1024px;
+$man_min_height: 960px; 
+
+$header_height: 60px;
+
+$content_height: $man_min_height - $header_height;
+
+$left_min_height: $content_height;
+
+$center_min_height: $left_min_height;
